@@ -1,3 +1,3 @@
 Data structures and Algorithms with python
 
-Each name of the files represents what it's about
+Each filename represents what it's about
